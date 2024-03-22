@@ -1,1 +1,1 @@
-Chocolate, Vanilla, Strauberry, Mint, Bubblegum
+Chocolate, Vanilla, Strawberry, Mint, Bubblegum
